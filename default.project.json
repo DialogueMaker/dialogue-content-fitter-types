@@ -1,20 +1,6 @@
 {
-  "name": "dialogue-content-fitter",
+  "name": "dialogue-content-fitter-types",
   "tree": {
-    "$className": "DataModel",
-    "StarterPlayer": {
-      "StarterPlayerScripts": {
-        "DialogueClientScript": {
-          "$className": "LocalScript",
-          "Packages": {
-            "$path": "Packages",
-            "$ignoreUnknownInstances": true,
-            "dialogue-content-fitter": {
-              "$path": "src"
-            }
-          }
-        }
-      }
-    }
+    "$path": "src"
   }
 }
