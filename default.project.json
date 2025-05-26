@@ -1,0 +1,20 @@
+{
+  "name": "dialogue-content-fitter",
+  "tree": {
+    "$className": "DataModel",
+    "StarterPlayer": {
+      "StarterPlayerScripts": {
+        "DialogueClientScript": {
+          "$className": "LocalScript",
+          "Packages": {
+            "$path": "Packages",
+            "$ignoreUnknownInstances": true,
+            "dialogue-content-fitter": {
+              "$path": "src"
+            }
+          }
+        }
+      }
+    }
+  }
+}
