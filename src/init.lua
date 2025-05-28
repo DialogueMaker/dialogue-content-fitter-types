@@ -1,6 +1,6 @@
 --!strict
 
-local IEffect = require(script.Packages["effect-types"]);
+local IEffect = require("@pkg/effect_types");
 
 type Effect = IEffect.Effect;
 type Page = IEffect.Page;
