@@ -1,6 +1,6 @@
 --!strict
 
-local IEffect = require("@pkg/effect_types");
+local IEffect = require(script.Parent.roblox_packages.effect_types);
 
 type Effect = IEffect.Effect;
 type Page = IEffect.Page;
